@@ -1,1 +1,4 @@
-/sqltools_20230112211930_12636.log
+**/.vs/
+**/bin/
+**/obj/
+**/.angular/
